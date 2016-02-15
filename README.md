@@ -1,4 +1,4 @@
 # Hello-Word
-Just another repositry
-add code
+Just another repositry \n
+add code \n
 I a Haroun, and I am happy
